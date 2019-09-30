@@ -1,0 +1,11 @@
+*~
+*.swp
+*.swo
+*.bak
+out/
+rockdev/
+RKAndroidTool/
+v8.log
+buildspec.mk
+kernel/kernel.img
+kernel/resource.img
